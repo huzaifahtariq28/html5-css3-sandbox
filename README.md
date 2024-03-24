@@ -6,7 +6,6 @@ Welcome to my HTML5 and CSS3 Sandbox repository! This space is dedicated to expl
 
 - [Installation](#installation)
 - [Explore Exercises](#explore-exercises)
-- [Repository Structure](#repository-structure)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -34,11 +33,7 @@ To get started with the sandbox:
 
 ### Explore Exercises:
 
-Navigate to the exercises directory to find a variety of HTML and CSS exercises covering different topics.
-
-### Repository Structure:
-
-exercises/: Contains individual HTML and CSS exercises categorized by topic.
+Navigate to the src directory to find a variety of HTML and CSS exercises covering different topics.
 
 ## Contributing
 
@@ -77,4 +72,3 @@ I love to connect with fellow developers and learners! You can find me on [Linke
 ---
 
 Happy coding!
-
