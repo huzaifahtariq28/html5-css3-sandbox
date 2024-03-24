@@ -19,13 +19,13 @@ To get started with the sandbox:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/typescript-sandbox.git
+   git clone https://github.com/your-username/html5-css3-sandbox.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd typescript-sandbox
+   cd html5-css3-sandbox
    ```
 
 3. Open the HTML and CSS files in your favorite code editor.
