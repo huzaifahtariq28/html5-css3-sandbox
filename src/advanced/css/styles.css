@@ -47,6 +47,51 @@ li {
   }
 }
 
+.home {
+  background: #2a2138;
+  color: #cfc6dc;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 1.5rem;
+  width: 100vw;
+  height: fit-content;
+}
+
+.home a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.home ul {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 0;
+}
+
+.home li {
+  margin: 0;
+  padding: 1.5rem;
+}
+
+.home li:hover,
+.home .active {
+  background: #221a2e;
+  color: #fff;
+}
+
+.home .fa-solid {
+  margin-right: 1rem;
+  width: 2rem;
+  text-align: center;
+}
+
+@media screen and (min-width: 768px) {
+  .home {
+    width: 20%;
+    height: 100vh;
+  }
+}
+
 .gallery {
   margin: 2rem;
   display: grid;
