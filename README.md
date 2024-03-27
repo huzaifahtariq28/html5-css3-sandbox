@@ -4,7 +4,7 @@ Welcome to my HTML5 and CSS3 Sandbox repository! This space is dedicated to expl
 
 ## Table of Contents
 
-- [Installation](#installation)
+- [Getting Started](#getting-started)
 - [Explore Exercises](#explore-exercises)
 - [Contributing](#contributing)
 - [License](#license)
